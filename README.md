@@ -4,6 +4,12 @@
 
 Briefly, students should carry out multiple achievements through out this project. But, the goal isn't to finish all of them, in fact no body has never done so since the very beginning of this evaluation. The goal is to have us think outside the box and write a highly robust code using all of the knowledge and assets we learned through out this semester. 
 
+## Team members
+
+- Elomari Alaoui Ismail
+
+- Bernard--Hême Hugo
+
 ## 1	 Compilation:
 Once you are locally in a version of this project, compile using the "Makefile". It has different functionnalities:
      You can write "make" in order to compile the source code, and delete all the .o files after compilation
